@@ -1,30 +1,224 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
-      "id": 1
+      "id": "1"
     },
     {
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
-      "id": 2
+      "id": "2"
+    },
+    {
+      "id": "60dc",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "b82b",
+      "dogName": "benji",
+      "dogBreed": "bernese mountain dog"
+    },
+    {
+      "id": "b749",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
-      "id": 1
+      "id": "1"
     },
     {
       "catName": "Gunnar",
       "catBreed": "American Shorthair",
-      "id": 2
+      "id": "2"
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": "6989",
+      "name": "gary",
+      "email": "gl@yahoo.com"
+    },
+    {
+      "id": "6f9c",
+      "name": "gary",
+      "email": "gl@yahoo.com"
+    },
+    {
+      "id": "b065",
+      "name": "gary",
+      "email": "gl@yahoo.com"
+    },
+    {
+      "id": "8ddd",
+      "name": "gary",
+      "email": "gl@yahoo.com"
+    },
+    {
+      "id": "116a",
+      "name": "gary",
+      "email": "gl@yahoo.com"
+    },
+    {
+      "id": "8b8d",
+      "name": "gary",
+      "email": "gl@yahoo.com"
+    },
+    {
+      "id": "e26b",
+      "name": "gary",
+      "email": "gl@yahoo.com"
+    },
+    {
+      "id": "540f",
+      "name": "gary",
+      "email": "gl@yahoo.com"
+    },
+    {
+      "id": "12be",
+      "name": "gary",
+      "email": "gl@yahoo.com"
+    },
+    {
+      "id": "d10f",
+      "name": "gary",
+      "email": "gl@yahoo.com"
+    },
+    {
+      "id": "c281",
+      "name": "gary",
+      "email": "gl@yahoo.com"
+    },
+    {
+      "id": "8e41",
+      "name": "gary",
+      "email": "gl@yahoo.com"
+    },
+    {
+      "id": "513f",
+      "name": "gary",
+      "email": "gl@yahoo.com"
+    },
+    {
+      "id": "b527",
+      "name": "gary",
+      "email": "gl@yahoo.com"
+    },
+    {
+      "id": "b671",
+      "name": "gary",
+      "email": "gl@yahoo.com"
+    },
+    {
+      "id": "172c",
+      "name": "gary",
+      "email": "gl@yahoo.com"
+    },
+    {
+      "id": "4ddb",
+      "name": "gary",
+      "email": "gl@yahoo.com"
+    },
+    {
+      "id": "0ad4",
+      "name": "gary",
+      "email": "gl@yahoo.com"
+    },
+    {
+      "id": "406a",
+      "name": "gary",
+      "email": "gl@yahoo.com"
+    },
+    {
+      "id": "28b0",
+      "name": "gary",
+      "email": "gl@yahoo.com"
+    },
+    {
+      "id": "6718",
+      "name": "gary",
+      "email": "gl@yahoo.com"
+    },
+    {
+      "id": "8399",
+      "name": "gary",
+      "email": "gl@yahoo.com"
+    },
+    {
+      "id": "43d9",
+      "name": "gary",
+      "email": "gl@yahoo.com"
+    },
+    {
+      "id": "f897",
+      "name": "gary",
+      "email": "gl@yahoo.com"
+    },
+    {
+      "id": "f8f4",
+      "name": "gary",
+      "email": "gl@yahoo.com"
+    },
+    {
+      "id": "1661",
+      "name": "gary",
+      "email": "gl@yahoo.com"
+    },
+    {
+      "id": "bb87",
+      "name": "gary",
+      "email": "gl@yahoo.com"
+    },
+    {
+      "id": "ed61",
+      "name": "gary",
+      "email": "gl@yahoo.com"
+    },
+    {
+      "id": "61ab",
+      "name": "gary",
+      "email": "gl@yahoo.com"
+    },
+    {
+      "id": "2f60",
+      "name": "gary",
+      "email": "gl@yahoo.com"
+    },
+    {
+      "id": "c523",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "5bf1",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "98f7",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "3789",
+      "name": "Steve",
+      "emai": "steve@steve.com"
+    },
+    {
+      "id": "02d7",
+      "name": "Steve"
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": "9000"
+    }
+  ]
 }
